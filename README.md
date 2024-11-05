@@ -7,6 +7,7 @@ This is the resources and code repository for the Winter of Data Science Project
 We will be mainly following the below books:
 
 1.Sutton & Barto for the theoretical aspects of Reinforcement Learning. 
+
 2.Grokking Reinforcement Learning by Miguel Morales for the implementation details.
 
 ## Tentative Schedule
