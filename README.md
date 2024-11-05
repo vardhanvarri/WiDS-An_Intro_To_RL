@@ -1,0 +1,22 @@
+# WiDS-An_Intro_To_RL
+
+This is the resources and code repository for the Winter of Data Science Project on Reinforcement Learning.
+
+## Resources
+
+We will be mainly following the below books:
+
+1.Sutton & Barto for the theoretical aspects of Reinforcement Learning. 
+2.Grokking Reinforcement Learning by Miguel Morales for the implementation details.
+
+## Tentative Schedule
+
+- Week 1:
+Quick introduction to Python and useful Python modules such as NumPy, MatPlotLib, TensorFlow/PyTorch, etc.
+
+- Weeks 2 and 3:
+Introduction to Reinforcement Learning from Sutton and Barto, and implementation of few basic algorithms.
+
+- Week 4:
+Studying Deep Reinforcement Learning and improving our agaent.
+
