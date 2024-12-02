@@ -15,7 +15,7 @@ https://drive.google.com/drive/folders/1LWElILfxMi8OHKHUY-REkn8YgQ7ANWot?usp=sha
 For the First week, your task is to go through the Tutorials here for learning Basic Python and their libraries: https://drive.google.com/drive/folders/1LWElILfxMi8OHKHUY-REkn8YgQ7ANWot?usp=sharing
 and do the assignments for the Numpy and Python tutorials.
 
-Tentative Deadline- The submission deadline will be 23:59, 11th December 2024
+Tentative Deadline- The submission deadline for the assignments will be 23:59, 11th December 2024
 
 ## Tentative Schedule
 
