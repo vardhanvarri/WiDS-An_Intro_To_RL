@@ -14,7 +14,7 @@ https://drive.google.com/drive/folders/1LWElILfxMi8OHKHUY-REkn8YgQ7ANWot?usp=sha
 # Week 1
 For the First week, your task is to go through the Tutorials here for learning Basic Python and their libraries: https://drive.google.com/drive/folders/1LWElILfxMi8OHKHUY-REkn8YgQ7ANWot?usp=sharing
 and do the assignments for the Numpy and Python tutorials.
-Some of the Tutorials taken here are from Mnp Club Resources, thanks to them!
+
 Tentative Deadline- The submission deadline will be 23:59, 11th December 2024
 
 ## Tentative Schedule
