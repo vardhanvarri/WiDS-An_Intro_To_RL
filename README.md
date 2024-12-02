@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzF
 ## Tentative Schedule
 
 - Week 1:
-Quick introduction to Python and useful Python modules such as NumPy, MatPlotLib, TensorFlow/PyTorch, etc.
+Quick introduction to Python and useful Python modules such as NumPy, MatPlotLib,etc.
 
 - Weeks 2 and 3:
 Introduction to Reinforcement Learning from Sutton and Barto, and implementation of few basic algorithms.
