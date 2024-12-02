@@ -17,6 +17,8 @@ We will also be learning from the Playlist of David Silver, which you can find h
 
 https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&index=2
 
+# Week 1
+
 
 ## Tentative Schedule
 
