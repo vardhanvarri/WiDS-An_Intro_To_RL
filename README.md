@@ -13,7 +13,7 @@ We will be mainly following the books below:
 
 2. **Grokking Reinforcement Learning by Miguel Morales** for the implementation details.
 
-We will also be learning from the Playlist of David Silver which you could find here - 
+We will also be learning from the Playlist of David Silver, which you can find here - 
 
 https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&index=2
 
@@ -27,5 +27,5 @@ Quick introduction to Python and useful Python modules such as NumPy, MatPlotLib
 Introduction to Reinforcement Learning from Sutton and Barto, and implementation of few basic algorithms.
 
 - Week 4:
-Studying Deep Reinforcement Learning and improving our agaent.
+Studying Deep Reinforcement Learning and improving our agent.
 
