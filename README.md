@@ -5,13 +5,13 @@ These are the resources and code repository for the **Winter of Data Science** P
 Please find the Google Drive link below and also in the about section for the resources for week1 ( later weeks will be uploaded soon ).
 https://drive.google.com/drive/folders/1LWElILfxMi8OHKHUY-REkn8YgQ7ANWot?usp=sharing
 
-## Resources
+# Resources
 
 We will be mainly following the below books:
 
-1.Sutton & Barto for the theoretical aspects of Reinforcement Learning. 
+1.**Sutton & Barto** for the theoretical aspects of Reinforcement Learning. 
 
-2.Grokking Reinforcement Learning by Miguel Morales for the implementation details.
+2.**Grokking Reinforcement Learning by Miguel Morales** for the implementation details.
 
 ## Tentative Schedule
 
