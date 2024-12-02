@@ -13,7 +13,8 @@ We will be mainly following the books below:
 
 2. **Grokking Reinforcement Learning by Miguel Morales** for the implementation details.
 
-We will also be learning from the Playlist of David Silver which you could find here - https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&index=2
+We will also be learning from the Playlist of David Silver which you could find here - 
+https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&index=2
 
 
 ## Tentative Schedule
