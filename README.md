@@ -19,15 +19,3 @@ For the First week, your task is to go through the Tutorials(given in above driv
 *Assignments are given itself in the Tutorial files.
 
 Tentative Deadline- The submission deadline for the assignments will be 23:59, 18th December 2024
-
-## Tentative Schedule
-
-- Week 1:
-Quick introduction to Python and useful Python modules such as NumPy, MatPlotLib,etc.
-
-- Weeks 2 and 3:
-Introduction to Reinforcement Learning from Sutton and Barto, and implementation of few basic algorithms.
-
-- Week 4:
-Studying Deep Reinforcement Learning and improving our agent.
-
