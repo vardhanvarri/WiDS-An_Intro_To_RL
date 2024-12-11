@@ -10,8 +10,8 @@ https://youtu.be/suAkMeWJ1yE?si=fMh6FWRMsC3HVQDX  (how to open notebook in vscod
 
 # Resources
   - David Silver's Google DeepMind RL Playlist: https://www.youtube.com/playlist?list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-
-  - Sutton and Barto's legendary RL textbook
-  - Grokking Reinforcement Learning by Miguel Morales
+  - Sutton and Barto's legendary RL textbook: https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf
+  - Grokking Reinforcement Learning by Miguel Morales: https://iitbacin-my.sharepoint.com/personal/22b0967_iitb_ac_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F22b0967%5Fiitb%5Fac%5Fin%2FDocuments%2Fgrokking%5FRL%2Epdf&parent=%2Fpersonal%2F22b0967%5Fiitb%5Fac%5Fin%2FDocuments&ga=1
   - OpenAI's 'Spinning Up' RL Explanations: https://spinningup.openai.com/en/latest/spinningup/rl_intro.html
 
 # Week 1
