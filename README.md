@@ -1,4 +1,4 @@
-# WiDS-An_Intro_To_RL
+# WiDS-Reinforcement Learning from Scratch
 
 These are the resources and code repository for the **Winter of Data Science** Project on Reinforcement Learning.
 
@@ -18,7 +18,7 @@ https://youtu.be/suAkMeWJ1yE?si=fMh6FWRMsC3HVQDX  (how to open notebook in vscod
 For the First week, your task is to go through the Tutorials(given in above drive link) for learning Basic Python and their libraries and do the assignments for the Numpy and Python tutorials.
 *Assignments are given itself in the Tutorial files.
 
-Tentative Deadline- The submission deadline for the assignments will be 23:59, 11th December 2024
+Tentative Deadline- The submission deadline for the assignments will be 23:59, 18th December 2024
 
 ## Tentative Schedule
 
