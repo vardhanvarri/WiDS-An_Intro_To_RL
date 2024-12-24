@@ -19,3 +19,10 @@ For the First week, your task is to go through the Tutorials(given in above driv
 *Assignments are given itself in the Tutorial files.
 
 Tentative Deadline- The submission deadline for the assignments will be 23:59, 17th December 2024
+
+# Week 2
+For this week you are expected to go through Lecture 1 and Lecture 2 of David Silver's Google DeepMind RL Playlist (link is there on GitHub repo) and cover Chapter 2 of Sutton & Barto's RL textbook(pdf is available on GitHub repo) for Multi-Armed Bandits. Your Assignment will be based on Multiarmed bandits. 
+We have uploaded the assignment for Week 2 on the drive available above.
+
+# Week 3
+
